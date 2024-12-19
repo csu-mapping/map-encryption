@@ -1,0 +1,26 @@
+E:\JAVA_work\Rtree_New_Encrypt\src\main\resources\db.properties
+
+CSUmapping
+
+D:\csu-mapping\key
+
+guangdong_point_poi1
+
+D:\csu-mapping\key\key.pub
+
+D:\csu-mapping\encrypt
+
+guangdong_point_poi1_encrypt
+
+D:\csu-mapping\key\key.pri
+
+D:\csu-mapping\encrypt\guangdong_point_poi1_encrypt.key
+
+D:\csu-mapping\encrypt\guangdong_point_poi1PointrtreeStar
+
+D:\csu-mapping\encrypt\guangdong_point_poi1_rtreeIndexLeaf.ser
+
+guangdong_point_poi1_decrypt
+
+112  21.5  115  23
+

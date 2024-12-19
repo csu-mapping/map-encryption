@@ -1,0 +1,7 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.shp filter=lfs diff=lfs merge=lfs -text
+*.dbf filter=lfs diff=lfs merge=lfs -text
+/encrypt/guangdong_line_roadLinertreeStar filter=lfs diff=lfs merge=lfs -text
+/encrypt/part_of_washington_polygon_buildingPolygonrtreeStar filter=lfs diff=lfs merge=lfs -text
+/encrypt/guangdong_line_road_rtreeIndexLeaf.ser filter=lfs diff=lfs merge=lfs -text
+/encrypt/part_of_washington_polygon_building_rtreeIndexLeaf.ser filter=lfs diff=lfs merge=lfs -text
