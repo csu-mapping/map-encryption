@@ -30,6 +30,10 @@ host=localhost
 database=en
 ```
 
+# Install
+git lfs install
+git lfs clone https://github.com/csu-mapping/map-encryption.git
+
 # Steps to run the app
 
 The overall approach is as follows:
